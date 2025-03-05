@@ -11,6 +11,7 @@ import (
 	"github.com/juhitha20/golang/module/api"
 )
 
+// test statement for pr
 func main() {
 	connStr := "user=juhitha dbname=mygolangdb password=Juhitha123# sslmode=disable"
 
